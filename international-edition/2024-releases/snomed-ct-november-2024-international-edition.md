@@ -2,10 +2,10 @@
 
 [Content Tracker](https://jira.ihtsdotools.org/browse/CTCP-57)
 
-| **Release Date**     | **20241101**   |
-| -------------------- | -------------- |
-| **Release Status**   | **PRODUCTION** |
-| **Document Version** | **1.0**        |
+| **Release Date**     | **20241101**                                                          |
+| -------------------- | --------------------------------------------------------------------- |
+| **Release Status**   | <mark style="color:blue;background-color:blue;">**PRODUCTION**</mark> |
+| **Document Version** | **1.0**                                                               |
 
 © 2025 International Health Terminology Standards Development Organisation. All rights reserved. SNOMED CT® was originally created by the College of American Pathologists.
 
