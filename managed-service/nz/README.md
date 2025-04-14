@@ -1,9 +1,9 @@
 # SNOMED CT New Zealand Extension PRODUCTION Release Notes - April 2025
 
-| Date             | 20250401   |
-| ---------------- | ---------- |
-| Document Version | 1.0        |
-| Release Status   | PRODUCTION |
+| **Date**             | **20250401**                                                          |
+| -------------------- | --------------------------------------------------------------------- |
+| **Document Version** | **1.0**                                                               |
+| **Release Status**   | <mark style="color:blue;background-color:blue;">**PRODUCTION**</mark> |
 
 © 2025 International Health Terminology Standards Development Organisation. All rights reserved. SNOMED CT® was originally created by the College of American Pathologists.
 
