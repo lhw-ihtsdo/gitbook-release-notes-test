@@ -15,8 +15,6 @@ Any copy of this document that is not obtained directly from SNOMED Internationa
 
 ***
 
-![](.gitbook/assets/278299358.png)
-
 ## Introduction <a href="#snomedctnewzealandextensionproductionreleasenotesapril2025-introduction" id="snomedctnewzealandextensionproductionreleasenotesapril2025-introduction"></a>
 
 ![](.gitbook/assets/278299346.jpg)
@@ -39,7 +37,7 @@ This SNOMED NZ Extension package is dependent upon and should therefore be consu
 
 ## New and updated content <a href="#snomedctnewzealandextensionproductionreleasenotesapril2025-newandupdatedcontent" id="snomedctnewzealandextensionproductionreleasenotesapril2025-newandupdatedcontent"></a>
 
-### The April 2025 release includes updates to the previously released content in the SNOMED NZ Extension and introduces some new content. <a href="#snomedctnewzealandextensionproductionreleasenotesapril2025-theapril2025releaseincludesupdatestothepr" id="snomedctnewzealandextensionproductionreleasenotesapril2025-theapril2025releaseincludesupdatestothepr"></a>
+The April 2025 release includes updates to the previously released content in the SNOMED NZ Extension and introduces some new content.
 
 This release includes new content in the following areas.
 
