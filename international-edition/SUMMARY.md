@@ -2,7 +2,8 @@
 
 ## 2025 Releases
 
-* [SNOMED CT April 2025 International Edition](README.md)
+* [SNOMED CT October 2025 International Edition](README.md)
+* [SNOMED CT April 2025 International Edition](<README (1).md>)
 * [SNOMED CT March 2025 International Edition](2025-releases/snomed-ct-march-2025-international-edition.md)
 
 ## 2024 Releases
