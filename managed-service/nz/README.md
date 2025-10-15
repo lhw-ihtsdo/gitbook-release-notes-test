@@ -2,10 +2,20 @@
 
 ***
 
-| **Date**             | **20251001** |
-| -------------------- | ------------ |
-| **Document Version** | **1.0**      |
-| **Release Status**   | production   |
+| **Date**             | **20251001**                                                          |
+| -------------------- | --------------------------------------------------------------------- |
+| **Document Version** | **1.0**                                                               |
+| **Release Status**   | <mark style="color:blue;background-color:blue;">**PRODUCTION**</mark> |
+
+© 2025 International Health Terminology Standards Development Organisation.  All rights reserved.  SNOMED CT® was originally created by the College of American Pathologists.
+
+This document forms part of the SNOMED CT® New Zealand Extension release distributed by International Health Terminology Standards Development Organisation, trading as SNOMED International, and is subject to the SNOMED CT® Affiliate License, details of which may be found at&#x20;
+
+[Get SNOMED CT | SNOMED International](https://www.snomed.org/get-snomed)
+
+No part of this document may be reproduced or transmitted in any form or by any means, or stored in any kind of retrieval system, except by an Affiliate of SNOMED International in accordance with the SNOMED CT® Affiliate License. Any modification of this document (including without limitation the removal or modification of this notice) is prohibited without the express written permission of SNOMED International.
+
+Any copy of this document that is not obtained directly from SNOMED International \[or a Member of SNOMED International] is not controlled by SNOMED International, and may have been modified and may be out of date. Any recipient of this document who has received it by other means is encouraged to obtain a copy directly from SNOMED International \[or a Member of SNOMED International. Details of the Members of SNOMED International may be found at [http://www.snomed.org/members/](http://www.snomed.org/members/)].
 
 ***
 
